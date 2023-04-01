@@ -1,0 +1,155 @@
+{
+	"frames": {
+		"horse-run-00.png": {
+			"frame": {
+				"x": 6,
+				"y": 6,
+				"w": 192,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 192,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 192,
+				"h": 144
+			}
+		},
+		"horse-run-01.png": {
+			"frame": {
+				"x": 210,
+				"y": 6,
+				"w": 192,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 192,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 192,
+				"h": 144
+			}
+		},
+		"horse-run-02.png": {
+			"frame": {
+				"x": 414,
+				"y": 6,
+				"w": 192,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 192,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 192,
+				"h": 144
+			}
+		},
+		"horse-run-03.png": {
+			"frame": {
+				"x": 618,
+				"y": 6,
+				"w": 192,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 192,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 192,
+				"h": 144
+			}
+		},
+		"horse-run-04.png": {
+			"frame": {
+				"x": 822,
+				"y": 6,
+				"w": 192,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 192,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 192,
+				"h": 144
+			}
+		},
+		"horse-run-05.png": {
+			"frame": {
+				"x": 1026,
+				"y": 6,
+				"w": 192,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 192,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 192,
+				"h": 144
+			}
+		},
+		"horse-run-06.png": {
+			"frame": {
+				"x": 1230,
+				"y": 6,
+				"w": 192,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 192,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 192,
+				"h": 144
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "./Assets/horse.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1428,
+			"h": 156
+		},
+		"scale": "1"
+	}
+}
